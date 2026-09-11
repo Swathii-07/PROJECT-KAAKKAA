@@ -88,6 +88,7 @@ For Software:
   
   ### 2. Gesture-Controlled Crow Bathing
 *The crow bathing gameplay starts here, controlled using hand gestures.*
+
 <img width="1767" height="897" alt="landing page" src="https://github.com/user-attachments/assets/ba207d21-a002-4378-a777-73f16b0374eb" />
 
 ### 3. Painting the Crow
@@ -104,7 +105,8 @@ For Software:
 <img width="1861" height="881" alt="one leg training" src="https://github.com/user-attachments/assets/3f957883-a94d-48fa-97b6-7b6941cac64c" />
 
 ### 5. Dashboard
-<img width="1767" height="897" alt="landing page" src="https://github.com/user-attachments/assets/ceac6b12-5d54-4d2c-bbe1-703c66de0792" />
+
+<img width="1593" height="900" alt="dashboard" src="https://github.com/user-attachments/assets/1e4a87b6-c5af-42f8-983a-893d76c34867" />
 
 
 # Diagrams
