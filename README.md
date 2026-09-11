@@ -6,35 +6,58 @@
 
 
 ## Basic Details
-### Team Name: [Project Kaakka]
+### Team Name: Project Kaakka
 
 
 ### Team Members
-- Team Lead: [Name] - [College]
-- Member 2: [Name] - [College]
-- Member 3: [Name] - [College]
+- Team Lead: Niveditha N - Jyothi Engineering College
+- Member 2: Swathi S Nair- Jyothi Engineering College
 
 ### Project Description
-[2-3 lines about what your project does]
+🐦 Can a crow ever become a kokk? Inspired by the Malayalam chollu “കാക്ക കുളിച്ചാൽ കൊക്കാവില്ല!”, this interactive webcam game turns the proverb into an 8-level challenge using real-time hand-gesture tracking. From bathing and grooming to the ultimate one-leg training, watch a crow hilariously attempt the impossible! 
+
 
 ### The Problem (that doesn't exist)
-[What ridiculous problem are you solving?]
+A crow can bathe all it wants, but can it ever become a kokk?
 
 ### The Solution (that nobody asked for)
-[How are you solving it? Keep it fun!]
+We built KAKKA KULICHAL KOKKAVILLA — an 8-level mission to answer the most useless question ever: Can a crow actually become a kokk?
+
+* 8 ridiculous levels — From bathing, soaping and shampooing to grooming and whitewashing.
+* Training arc — Teach the crow to act like a proper kokk, including the legendary one-leg challenge.
+* Things get progressively crazier — Each level brings a new challenge, reaction and surprise.
+* The final mission — Transform KAKKA into KOKK and prove the Malayalam chollu wrong.
+* In short: we took a completely unnecessary problem, added computer vision and gamification, and turned it into something you actually want to play.**
 
 ## Technical Details
 ### Technologies/Components Used
-For Software:
-- [Languages used]
-- [Frameworks used]
-- [Libraries used]
-- [Tools used]
+ Software:
+- | Category | Technology / Library | Version | Purpose |
+|---|---|---|---|
+| Language | TypeScript | Latest | Game logic and interactions |
+| Framework | React | Latest | Building the interactive game UI |
+| Build Tool | Vite | Latest | Development and production build |
+| Styling | Tailwind CSS | Latest | UI styling and responsive design |
+| Hand Tracking | MediaPipe Hands | 0.10.x | Real-time hand gesture detection |
+| Computer Vision | MediaPipe | 0.10.x | Tracking hand landmarks through webcam |
+| Icons | Lucide React | Latest | UI icons and controls |
+| Camera | MediaDevices API | Browser API | Webcam access |
+| Audio | Web Audio API | Browser API | Sound effects and game audio |
+| Version Control | Git | Latest | Source-code management |
+| Repository | GitHub | — | Code hosting and collaboration |
+| Development Tool | Visual Studio Code | — | Development and debugging |
+| Prototyping | Lovable | — | Initial UI and rapid prototyping |
 
-For Hardware:
-- [List main components]
-- [List specifications]
-- [List tools required]
+### Core Components
+
+- **Webcam Interaction** — Uses hand movements as the game controller.
+- **Gesture Detection** — Recognizes player gestures for different actions.
+- **8-Level Progression** — Takes the crow from bathing and grooming to crane training and one-leg balancing.
+- **Crow Animation** — Changes the crow's appearance and reactions throughout the game.
+- **Progress System** — Tracks completion of each challenge.
+- **Sound System** — Provides crow sounds, effects and game feedback.
+- **Level Management** — Handles progression, challenges and level completion.
+- **Final Transformation** — The ultimate attempt to turn KAKKA into KOKK.
 
 ### Implementation
 For Software:
