@@ -77,43 +77,32 @@ For Software:
 For Software:
 
 # Screenshots (Add at least 3)
-![Screenshot1](Add screenshot 1 here with proper name)
-*Add caption explaining what this shows*
+<img width="1767" height="897" alt="landing page" src="https://github.com/user-attachments/assets/8b170183-f221-4a81-ad6e-2afbc7e4d7e0" />
+### 1. Landing Page
+*The landing page where the game begins.*
 
-![Screenshot2](Add screenshot 2 here with proper name)
-*Add caption explaining what this shows*
+<img width="1593" height="900" alt="dashboard" src="https://github.com/user-attachments/assets/0dba973e-87ce-44d2-8a26-9313f6ba8c4b" 
+  ### 2. Gesture-Controlled Crow Bathing
+*The crow bathing gameplay starts here, controlled using hand gestures.*
 
-![Screenshot3](Add screenshot 3 here with proper name)
-*Add caption explaining what this shows*
+<img width="1872" height="910" alt="painting" src="https://github.com/user-attachments/assets/83246163-ee68-407c-b42f-9c724ff4cd8c" />
+### 3. Painting the Crow
+*The crow is painted as part of the transformation challenge.*
+
+<img width="1861" height="881" alt="one leg training" src="https://github.com/user-attachments/assets/f89121a9-5d8c-443d-b852-ecd8b63dfbe3" />
+### 4. One-Leg Training
+*Training the crow to stand on one leg — the final challenge.*
+
+<img width="1877" height="897" alt="bathing" src="https://github.com/user-attachments/assets/cae2891f-11eb-4e2d-a263-e85371375a82" />
+### 5. Dashboard
+*The dashboard shows all the crow’s transformation attempts and tracks its overall level of kokkness.*
 
 # Diagrams
 ![Workflow](Add your workflow/architecture diagram here)
 *Add caption explaining your workflow*
 
-For Hardware:
 
-# Schematic & Circuit
-![Circuit](Add your circuit diagram here)
-*Add caption explaining connections*
 
-![Schematic](Add your schematic diagram here)
-*Add caption explaining the schematic*
-
-# Build Photos
-
-*List out all components shown*
-
-![Build](Add photos of build process here)
-*Explain the build steps*
-
-![Final](Add photo of final product here)
-<img width="1767" height="897" alt="landing page" src="https://github.com/user-attachments/assets/8b170183-f221-4a81-ad6e-2afbc7e4d7e0" />
-(Add photo of your components here)
-
-<img width="1593" height="900" alt="dashboard" src="https://github.com/user-attachments/assets/0dba973e-87ce-44d2-8a26-9313f6ba8c4b" />
-<img width="1861" height="881" alt="one leg training" src="https://github.com/user-attachments/assets/f89121a9-5d8c-443d-b852-ecd8b63dfbe3" />
-<img width="1872" height="910" alt="painting" src="https://github.com/user-attachments/assets/83246163-ee68-407c-b42f-9c724ff4cd8c" />
-<img width="1877" height="897" alt="bathing" src="https://github.com/user-attachments/assets/cae2891f-11eb-4e2d-a263-e85371375a82" />
 
 *Explain the final build*
 
