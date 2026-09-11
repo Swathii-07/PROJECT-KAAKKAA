@@ -30,23 +30,27 @@ We built KAKKA KULICHAL KOKKAVILLA — an 8-level mission to answer the most use
 * In short: we took a completely unnecessary problem, added computer vision and gamification, and turned it into something you actually want to play.**
 
 ## Technical Details
-### Technologies/Components Used
- Software:
-- | Category | Technology / Library | Version | Purpose |
-|---|---|---|---|
-| Language | TypeScript | Latest | Game logic and interactions |
-| Framework | React | Latest | Building the interactive game UI |
-| Build Tool | Vite | Latest | Development and production build |
-| Styling | Tailwind CSS | Latest | UI styling and responsive design |
-| Hand Tracking | MediaPipe Hands | 0.10.x | Real-time hand gesture detection |
-| Computer Vision | MediaPipe | 0.10.x | Tracking hand landmarks through webcam |
-| Icons | Lucide React | Latest | UI icons and controls |
-| Camera | MediaDevices API | Browser API | Webcam access |
-| Audio | Web Audio API | Browser API | Sound effects and game audio |
-| Version Control | Git | Latest | Source-code management |
-| Repository | GitHub | — | Code hosting and collaboration |
-| Development Tool | Visual Studio Code | — | Development and debugging |
-| Prototyping | Lovable | — | Initial UI and rapid prototyping |
+#**Frameworks**
+- `React` — Interactive game interface and component management
+- `Vite` — Development server and build system
+- `Tailwind CSS` — Styling and responsive design
+
+**Libraries**
+- `@mediapipe/tasks-vision` — Real-time hand tracking and gesture detection
+- `lucide-react` — Icons and interface elements
+- `react` — Component-based UI development
+- `react-dom` — Rendering React components
+
+**Browser APIs**
+- `MediaDevices API` — Webcam access and video input
+- `Web Audio API` — Sound effects and background audio
+- `Canvas API` — Visual rendering and hand interaction
+
+**Development Tools**
+- `Visual Studio Code` — Coding and debugging
+- `Git` — Version control
+- `GitHub` — Source-code hosting and collaboration
+- `Lovable` — Rapid prototyping and initial development
 
 ### Core Components
 
