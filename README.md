@@ -66,7 +66,9 @@ We built KAKKA KULICHAL KOKKAVILLA — an 8-level mission to answer the most use
 ### Implementation
 For Software:
 # Installation
-[commands]
+
+```bash
+npm install
 
 # Run
 [commands]
