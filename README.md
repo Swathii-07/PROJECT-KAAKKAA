@@ -2,7 +2,7 @@
 
 
 
-# [Project Name] 🎯
+# KAAKKA KULICHAL KOKKAVILLA ! 🎯
 
 
 ## Basic Details
@@ -81,15 +81,15 @@ For Software:
 ### 1. ### 1. Landing Page
 *The landing page where the game begins.*
 
-<img width="1877" height="897" alt="bathing" src="https://github.com/user-attachments/assets/ca5e68e6-55e9-4949-baa4-0f425cfa6db3" />
 
+<img width="1767" height="897" alt="landing page" src="https://github.com/user-attachments/assets/ba207d21-a002-4378-a777-73f16b0374eb" />
 
 
   
   ### 2. Gesture-Controlled Crow Bathing
 *The crow bathing gameplay starts here, controlled using hand gestures.*
 
-<img width="1767" height="897" alt="landing page" src="https://github.com/user-attachments/assets/ba207d21-a002-4378-a777-73f16b0374eb" />
+<img width="1877" height="897" alt="bathing" src="https://github.com/user-attachments/assets/ca5e68e6-55e9-4949-baa4-0f425cfa6db3" />
 
 ### 3. Painting the Crow
 *The crow is painted as part of the transformation challenge.*
