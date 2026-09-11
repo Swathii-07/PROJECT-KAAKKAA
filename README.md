@@ -120,16 +120,12 @@ For Software:
 
 ### Project Demo
 # Video
-[Add your demo video link here]
-*Explain what the video demonstrates*
+<https://drive.google.com/file/d/1MH44xUWobhfvk9p2sUFP6EYGgHV8GH5p/view?usp=drivesdk>
 
-# Additional Demos
-[Add any extra demo materials/links]
 
 ## Team Contributions
-- [Name 1]: [Specific contributions]
-- [Name 2]: [Specific contributions]
-- [Name 3]: [Specific contributions]
+- Niveditha N: [Specific contributions]
+- Swathi S Nair: [Specific contributions]
 
 ---
 Made with ❤️ at TinkerHub Useless Projects 
