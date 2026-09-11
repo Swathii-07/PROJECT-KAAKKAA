@@ -100,7 +100,8 @@ For Hardware:
 *Add caption explaining the schematic*
 
 # Build Photos
-![Components](Add photo of your components here)
+!<img width="1767" height="897" alt="landing page" src="https://github.com/user-attachments/assets/8b170183-f221-4a81-ad6e-2afbc7e4d7e0" />
+(Add photo of your components here)
 *List out all components shown*
 
 ![Build](Add photos of build process here)
