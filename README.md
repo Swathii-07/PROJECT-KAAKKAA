@@ -124,9 +124,8 @@ For Software:
 
 
 ## Team Contributions
-- Niveditha N: [Specific contributions]
-- Swathi S Nair: [Specific contributions]
-
+- Niveditha N: Programming, error correction and debugging, updating and improving the implementation.
+- Swathi S Nair: Idea conceptualization, project planning and documentation, webpage development, adding sound effects and captions
 ---
 Made with ❤️ at TinkerHub Useless Projects 
 
