@@ -14,14 +14,14 @@
 - Member 2: Swathi S Nair- Jyothi Engineering College
 
 ### Project Description
-🐦 Can a crow ever become a kokk? Inspired by the Malayalam chollu “കാക്ക കുളിച്ചാൽ കൊക്കാവില്ല!”, this interactive webcam game turns the proverb into an 8-level challenge using real-time hand-gesture tracking. From bathing and grooming to the ultimate one-leg training, watch a crow hilariously attempt the impossible! 
+🐦 Can a crow ever become a crane? Inspired by the Malayalam chollu “കാക്ക കുളിച്ചാൽ കൊക്കാവില്ല!”, this interactive webcam game turns the proverb into an 8-level challenge using real-time hand-gesture tracking. From bathing and grooming to the ultimate one-leg training, watch a crow hilariously attempt the impossible! 
 
 
 ### The Problem (that doesn't exist)
-A crow can bathe all it wants, but can it ever become a kokk?
+A crow can bathe all it wants, but can it ever become a crane?
 
 ### The Solution (that nobody asked for)
-We built KAKKA KULICHAL KOKKAVILLA — an 8-level mission to answer the most useless question ever: Can a crow actually become a kokk?
+We built KAKKA KULICHAL KOKKAVILLA — an 8-level mission to answer the most useless question ever: Can a crow actually become a crane?
 
 * 8 ridiculous levels — From bathing, soaping and shampooing to grooming and whitewashing.
 * Training arc — Teach the crow to act like a proper kokk, including the legendary one-leg challenge.
@@ -156,7 +156,7 @@ The game is controlled using **hand gestures through a webcam**. MediaPipe detec
 
 ## Final Result
 
-After completing all eight levels, the game displays the **result of each stage** and the final **Kokkness percentage**, showing how successfully the crow has transformed into a crane.
+After completing all eight levels, the game displays the **result of each stage** and the final **Kokkness percentage**, showing how the crow has failed to transform into a crane.
 
 
 
