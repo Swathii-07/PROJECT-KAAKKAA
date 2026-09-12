@@ -122,6 +122,43 @@ For Software:
 # Video
 <https://drive.google.com/file/d/1MH44xUWobhfvk9p2sUFP6EYGgHV8GH5p/view?usp=drivesdk>
 
+## Project Explanation
+
+Our project is a fun interactive game called **Kakka Kulichal Kokkavilla**.
+
+The game is controlled using **hand gestures through a webcam**. MediaPipe detects the player's hand movements and uses them to control the crow. The player guides the crow through eight stages, starting from a normal bath and gradually transforming it into a crane.
+
+## 8 Levels
+
+1. **Water Bath**
+   The player uses hand gestures to give the crow a water bath.
+
+2. **Soap Bath**
+   Hand gestures are used to apply soap and clean the crow.
+
+3. **Shampoo Bath**
+   The player uses gestures to apply shampoo and wash the crow.
+
+4. **Grooming**
+   Gestures are used to groom and prepare the crow for transformation.
+
+5. **Painting White**
+   The player uses gestures to paint the crow white and begin the crane transformation.
+
+6. **Single-Leg Crane Training**
+   The player controls the crow using gestures to train it to stand on one leg like a crane.
+
+7. **Leg Elongation**
+   Using hand gestures, the player pulls and elongates the crow's legs to give them a crane-like appearance.
+
+8. **Full Transformation**
+   The player completes the final gestures and the crow transforms fully into a crane.
+
+## Final Result
+
+After completing all eight levels, the game displays the **result of each stage** and the final **Kokkness percentage**, showing how successfully the crow has transformed into a crane.
+
+
 
 ## Team Contributions
 - Niveditha N: Programming, error correction and debugging, updating and improving the implementation.
